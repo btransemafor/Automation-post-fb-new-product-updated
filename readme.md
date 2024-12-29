@@ -29,10 +29,6 @@ Ensure you have the following installed:
 3. **ChromeDriver** (compatible with your browser version)
 4. WordPress site with webhook integration enabled.
 5. **ngrok**
-Install required Python packages:
-```bash
-pip install selenium requests flask
-```
 
 ---
 
